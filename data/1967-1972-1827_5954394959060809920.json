@@ -1,0 +1,3708 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "60:70s  topics only 3.csv",
+    "name" : "1967-1972",
+    "SUID" : 1827,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "2105",
+        "shared_name" : "Elections",
+        "name" : "Elections",
+        "SUID" : 2105,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 14.981738459281758,
+        "y" : 926.5995636186738
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2102",
+        "shared_name" : "Kennedy",
+        "name" : "Kennedy",
+        "SUID" : 2102,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 42.670404925052594,
+        "y" : 960.633506740475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2081",
+        "shared_name" : "ROTC",
+        "name" : "ROTC",
+        "SUID" : 2081,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 482.024308053941,
+        "y" : 1239.4558894836043
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2080",
+        "shared_name" : "Student Rights ",
+        "name" : "Student Rights ",
+        "SUID" : 2080,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 481.3982426421702,
+        "y" : 1157.1582707932669
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2075",
+        "shared_name" : "Identity",
+        "name" : "Identity",
+        "SUID" : 2075,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1020.1691077059135,
+        "y" : 777.1253417888828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2073",
+        "shared_name" : "Marxism",
+        "name" : "Marxism",
+        "SUID" : 2073,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1033.6290099064577,
+        "y" : 735.366479641759
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2070",
+        "shared_name" : "War",
+        "name" : "War",
+        "SUID" : 2070,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1043.8835910947391,
+        "y" : 692.7071887460628
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2067",
+        "shared_name" : "Art/activism",
+        "name" : "Art/activism",
+        "SUID" : 2067,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 877.6656195719861,
+        "y" : 995.8373686679212
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2065",
+        "shared_name" : "Athletics",
+        "name" : "Athletics",
+        "SUID" : 2065,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 908.1207146617726,
+        "y" : 964.2547988208873
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2063",
+        "shared_name" : "Black Culture",
+        "name" : "Black Culture",
+        "SUID" : 2063,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 936.0932221376663,
+        "y" : 930.4537579999042
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2048",
+        "shared_name" : "Racial Justice Movements",
+        "name" : "Racial Justice Movements",
+        "SUID" : 2048,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 961.4220636793098,
+        "y" : 894.6288878503974
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2045",
+        "shared_name" : "Racial Justice Movements ",
+        "name" : "Racial Justice Movements ",
+        "SUID" : 2045,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 983.9613843877218,
+        "y" : 856.9864841402989
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2043",
+        "shared_name" : "Racism",
+        "name" : "Racism",
+        "SUID" : 2043,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1003.5813926836224,
+        "y" : 817.7433088159258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2030",
+        "shared_name" : "Worker's rights",
+        "name" : "Worker's rights",
+        "SUID" : 2030,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 664.6593989559466,
+        "y" : 693.1182085191048
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2028",
+        "shared_name" : "Media",
+        "name" : "Media",
+        "SUID" : 2028,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 143.57785476123638,
+        "y" : 1051.351567891312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2026",
+        "shared_name" : "Africa",
+        "name" : "Africa",
+        "SUID" : 2026,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1050.8738007649993,
+        "y" : 649.3931205483456
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2024",
+        "shared_name" : "Anti War",
+        "name" : "Anti War",
+        "SUID" : 2024,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1054.5593861356956,
+        "y" : 605.673696998326
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2022",
+        "shared_name" : "Asia",
+        "name" : "Asia",
+        "SUID" : 2022,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1054.9191239431802,
+        "y" : 561.8006742647536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2020",
+        "shared_name" : "Australia",
+        "name" : "Australia",
+        "SUID" : 2020,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1051.9509426548298,
+        "y" : 518.0266930097869
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2018",
+        "shared_name" : "Bangladesh",
+        "name" : "Bangladesh",
+        "SUID" : 2018,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1045.671934397864,
+        "y" : 474.603823570059
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2015",
+        "shared_name" : "Cambodia",
+        "name" : "Cambodia",
+        "SUID" : 2015,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1036.118256535166,
+        "y" : 431.78211442193543
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2013",
+        "shared_name" : "Chile",
+        "name" : "Chile",
+        "SUID" : 2013,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1023.34492345487,
+        "y" : 389.808152289555
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2007",
+        "shared_name" : "China",
+        "name" : "China",
+        "SUID" : 2007,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1007.4254897726895,
+        "y" : 348.9236421872026
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2003",
+        "shared_name" : "Cuba",
+        "name" : "Cuba",
+        "SUID" : 2003,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 988.4516267712505,
+        "y" : 309.36401557277003
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2001",
+        "shared_name" : "Democracy",
+        "name" : "Democracy",
+        "SUID" : 2001,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 966.5325945154793,
+        "y" : 271.35707462718534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1999",
+        "shared_name" : "Eastern Europe",
+        "name" : "Eastern Europe",
+        "SUID" : 1999,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 941.7946126838468,
+        "y" : 235.1216804666617
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1994",
+        "shared_name" : "Europe",
+        "name" : "Europe",
+        "SUID" : 1994,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 914.380133738504,
+        "y" : 200.86649284163104
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1992",
+        "shared_name" : "Greece",
+        "name" : "Greece",
+        "SUID" : 1992,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 884.4470226197252,
+        "y" : 168.7887685797461
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1990",
+        "shared_name" : "Haiti",
+        "name" : "Haiti",
+        "SUID" : 1990,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 852.167647688346,
+        "y" : 139.07322569205576
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1988",
+        "shared_name" : "India",
+        "name" : "India",
+        "SUID" : 1988,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 817.7278881509641,
+        "y" : 111.89097968334625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1985",
+        "shared_name" : "Israel/Palestine",
+        "name" : "Israel/Palestine",
+        "SUID" : 1985,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 781.3260636835892,
+        "y" : 87.39855819184993
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1983",
+        "shared_name" : "Jordan",
+        "name" : "Jordan",
+        "SUID" : 1983,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 743.1717924174602,
+        "y" : 65.73699963247259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1981",
+        "shared_name" : "Journalism",
+        "name" : "Journalism",
+        "SUID" : 1981,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 626.9117551992994,
+        "y" : 418.48370430021026
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1979",
+        "shared_name" : "Laos",
+        "name" : "Laos",
+        "SUID" : 1979,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 703.4847838632571,
+        "y" : 47.031041033958786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1976",
+        "shared_name" : "Latin America",
+        "name" : "Latin America",
+        "SUID" : 1976,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 662.4935737245972,
+        "y" : 31.388399746793766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1974",
+        "shared_name" : "NATO",
+        "name" : "NATO",
+        "SUID" : 1974,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 620.4342078863286,
+        "y" : 18.899153158092986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1972",
+        "shared_name" : "New Zealand",
+        "name" : "New Zealand",
+        "SUID" : 1972,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 577.5488831558123,
+        "y" : 9.63521998536055
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1970",
+        "shared_name" : "Northern Ireland",
+        "name" : "Northern Ireland",
+        "SUID" : 1970,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 534.0845525844162,
+        "y" : 3.6499461360614305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1968",
+        "shared_name" : "Peru",
+        "name" : "Peru",
+        "SUID" : 1968,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 490.29150340041105,
+        "y" : 0.9777975178143379
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1966",
+        "shared_name" : "Philippines",
+        "name" : "Philippines",
+        "SUID" : 1966,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 446.42191574216963,
+        "y" : 1.6341615681432131
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1964",
+        "shared_name" : "Religion",
+        "name" : "Religion",
+        "SUID" : 1964,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 664.6593989559461,
+        "y" : 464.88179148089444
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1961",
+        "shared_name" : "Russia/USSR",
+        "name" : "Russia/USSR",
+        "SUID" : 1961,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 402.72841049113663,
+        "y" : 5.615258646668508
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1959",
+        "shared_name" : "Socialism",
+        "name" : "Socialism",
+        "SUID" : 1959,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 359.4625945668005,
+        "y" : 12.898163799982399
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1956",
+        "shared_name" : "Southeast Asia",
+        "name" : "Southeast Asia",
+        "SUID" : 1956,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 316.8736120605164,
+        "y" : 23.44093877387445
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1954",
+        "shared_name" : "Third World",
+        "name" : "Third World",
+        "SUID" : 1954,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 275.20670955140395,
+        "y" : 37.18287351272431
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1950",
+        "shared_name" : "UN",
+        "name" : "UN",
+        "SUID" : 1950,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 234.70182386587965,
+        "y" : 54.044835755396434
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1936",
+        "shared_name" : "Reproductive Rights",
+        "name" : "Reproductive Rights",
+        "SUID" : 1936,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 283.3809802330402,
+        "y" : 1123.7917086460488
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1934",
+        "shared_name" : "Animal Rights",
+        "name" : "Animal Rights",
+        "SUID" : 1934,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 195.59220041314137,
+        "y" : 73.92972671450718
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1932",
+        "shared_name" : "Energy",
+        "name" : "Energy",
+        "SUID" : 1932,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 158.10305005285312,
+        "y" : 96.72304021505772
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1922",
+        "shared_name" : "Pollution",
+        "name" : "Pollution",
+        "SUID" : 1922,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 521.6858216471519,
+        "y" : 363.96002028498066
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1920",
+        "shared_name" : "Resources",
+        "name" : "Resources",
+        "SUID" : 1920,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 122.45025222938955,
+        "y" : 122.29352207265941
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1918",
+        "shared_name" : "Society",
+        "name" : "Society",
+        "SUID" : 1918,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 88.83911184058354,
+        "y" : 150.49392591435424
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1916",
+        "shared_name" : "Technology",
+        "name" : "Technology",
+        "SUID" : 1916,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 462.01165796659893,
+        "y" : 359.8781956645875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1914",
+        "shared_name" : "Environment",
+        "name" : "Environment",
+        "SUID" : 1914,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 403.4491110475609,
+        "y" : 372.0476328561981
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1911",
+        "shared_name" : "Culture",
+        "name" : "Culture",
+        "SUID" : 1911,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 688.4892035766568,
+        "y" : 519.7435041313745
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1908",
+        "shared_name" : "Easton",
+        "name" : "Easton",
+        "SUID" : 1908,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 393.9168484459466,
+        "y" : 1151.1743794970605
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1906",
+        "shared_name" : "Faculty",
+        "name" : "Faculty",
+        "SUID" : 1906,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 437.54394265288215,
+        "y" : 1155.82714062674
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1904",
+        "shared_name" : "Gender/Sexuality",
+        "name" : "Gender/Sexuality",
+        "SUID" : 1904,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 403.44911104756125,
+        "y" : 785.952367143802
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1900",
+        "shared_name" : "International Affairs",
+        "name" : "International Affairs",
+        "SUID" : 1900,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 578.0458423601673,
+        "y" : 383.990376458388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1895",
+        "shared_name" : "Race",
+        "name" : "Race",
+        "SUID" : 1895,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 696.6338214668156,
+        "y" : 578.9999999999995
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1893",
+        "shared_name" : "Capitalism",
+        "name" : "Capitalism",
+        "SUID" : 1893,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 688.489203576657,
+        "y" : 638.2564958686247
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1891",
+        "shared_name" : "US Politics",
+        "name" : "US Politics",
+        "SUID" : 1891,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 306.62756486763226,
+        "y" : 717.6082568939677
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1890",
+        "shared_name" : "Economy",
+        "name" : "Economy",
+        "SUID" : 1890,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 275.5493767578056,
+        "y" : 666.5023538394737
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1886",
+        "shared_name" : "Conservatism",
+        "name" : "Conservatism",
+        "SUID" : 1886,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 57.463176999481846,
+        "y" : 181.161861089674
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1884",
+        "shared_name" : "Criminal Justice System",
+        "name" : "Criminal Justice System",
+        "SUID" : 1884,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 28.503124496972816,
+        "y" : 214.12072778928354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1882",
+        "shared_name" : "Drugs",
+        "name" : "Drugs",
+        "SUID" : 1882,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 259.41185979857335,
+        "y" : 549.0931985026597
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1871",
+        "shared_name" : "Police",
+        "name" : "Police",
+        "SUID" : 1871,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2.125719383297792,
+        "y" : 249.18073398637011
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1868",
+        "shared_name" : "The Draft",
+        "name" : "The Draft",
+        "SUID" : 1868,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 259.4118597985732,
+        "y" : 608.906801497339
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1866",
+        "shared_name" : "Urbanization",
+        "name" : "Urbanization",
+        "SUID" : 1866,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 350.34149708919733,
+        "y" : 399.5657803747813
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1860",
+        "shared_name" : "Violence",
+        "name" : "Violence",
+        "SUID" : 1860,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 275.5493767578057,
+        "y" : 491.4976461605261
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1859",
+        "shared_name" : "Domestic Affairs",
+        "name" : "Domestic Affairs",
+        "SUID" : 1859,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 306.62756486763226,
+        "y" : 440.39174310603227
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1857",
+        "shared_name" : "Child development",
+        "name" : "Child development",
+        "SUID" : 1857,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 682.9548179054179,
+        "y" : 1119.2489644659636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1855",
+        "shared_name" : "Consumerism",
+        "name" : "Consumerism",
+        "SUID" : 1855,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 723.328808173781,
+        "y" : 1102.0759494458568
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1852",
+        "shared_name" : "Education",
+        "name" : "Education",
+        "SUID" : 1852,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 462.01165796659944,
+        "y" : 798.1218043354125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1850",
+        "shared_name" : "Ethics",
+        "name" : "Ethics",
+        "SUID" : 1850,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 762.2843260112918,
+        "y" : 1081.890827076099
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1848",
+        "shared_name" : "Law",
+        "name" : "Law",
+        "SUID" : 1848,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 521.6858216471527,
+        "y" : 794.0399797150192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1842",
+        "shared_name" : "Student Engagement",
+        "name" : "Student Engagement",
+        "SUID" : 1842,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 626.9117551993,
+        "y" : 739.5162956997891
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1840",
+        "shared_name" : "Student Rights",
+        "name" : "Student Rights",
+        "SUID" : 1840,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 799.5970479679575,
+        "y" : 1058.8098323996282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1838",
+        "shared_name" : "Vietnam",
+        "name" : "Vietnam",
+        "SUID" : 1838,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 350.3414970891975,
+        "y" : 758.4342196252187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1837",
+        "shared_name" : "Activism",
+        "name" : "Activism",
+        "SUID" : 1837,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 580.7496659187011,
+        "y" : 791.5048828125
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "2083",
+        "source" : "2080",
+        "target" : "1852",
+        "shared_name" : "Student Rights  (interacts with) Education",
+        "name" : "Student Rights  (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2083,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2082",
+        "source" : "2080",
+        "target" : "2081",
+        "shared_name" : "Student Rights  (interacts with) ROTC",
+        "name" : "Student Rights  (interacts with) ROTC",
+        "interaction" : "interacts with",
+        "SUID" : 2082,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2029",
+        "source" : "2028",
+        "target" : "1838",
+        "shared_name" : "Media (interacts with) Vietnam",
+        "name" : "Media (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2029,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2079",
+        "source" : "1964",
+        "target" : "1837",
+        "shared_name" : "Religion (interacts with) Activism",
+        "name" : "Religion (interacts with) Activism",
+        "interaction" : "interacts with",
+        "SUID" : 2079,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2078",
+        "source" : "1964",
+        "target" : "1911",
+        "shared_name" : "Religion (interacts with) Culture",
+        "name" : "Religion (interacts with) Culture",
+        "interaction" : "interacts with",
+        "SUID" : 2078,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2077",
+        "source" : "1964",
+        "target" : "1852",
+        "shared_name" : "Religion (interacts with) Education",
+        "name" : "Religion (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2077,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2076",
+        "source" : "1964",
+        "target" : "2075",
+        "shared_name" : "Religion (interacts with) Identity",
+        "name" : "Religion (interacts with) Identity",
+        "interaction" : "interacts with",
+        "SUID" : 2076,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2074",
+        "source" : "1964",
+        "target" : "2073",
+        "shared_name" : "Religion (interacts with) Marxism",
+        "name" : "Religion (interacts with) Marxism",
+        "interaction" : "interacts with",
+        "SUID" : 2074,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2072",
+        "source" : "1964",
+        "target" : "1838",
+        "shared_name" : "Religion (interacts with) Vietnam",
+        "name" : "Religion (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2072,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2071",
+        "source" : "1964",
+        "target" : "2070",
+        "shared_name" : "Religion (interacts with) War",
+        "name" : "Religion (interacts with) War",
+        "interaction" : "interacts with",
+        "SUID" : 2071,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1935",
+        "source" : "1914",
+        "target" : "1934",
+        "shared_name" : "Environment (interacts with) Animal Rights",
+        "name" : "Environment (interacts with) Animal Rights",
+        "interaction" : "interacts with",
+        "SUID" : 1935,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1933",
+        "source" : "1914",
+        "target" : "1932",
+        "shared_name" : "Environment (interacts with) Energy",
+        "name" : "Environment (interacts with) Energy",
+        "interaction" : "interacts with",
+        "SUID" : 1933,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1931",
+        "source" : "1914",
+        "target" : "1848",
+        "shared_name" : "Environment (interacts with) Law",
+        "name" : "Environment (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1931,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1930",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1930,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1929",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1929,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1928",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1928,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1927",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1927,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1926",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1926,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1925",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1925,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1924",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1924,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1923",
+        "source" : "1914",
+        "target" : "1922",
+        "shared_name" : "Environment (interacts with) Pollution",
+        "name" : "Environment (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 1923,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1921",
+        "source" : "1914",
+        "target" : "1920",
+        "shared_name" : "Environment (interacts with) Resources",
+        "name" : "Environment (interacts with) Resources",
+        "interaction" : "interacts with",
+        "SUID" : 1921,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1919",
+        "source" : "1914",
+        "target" : "1918",
+        "shared_name" : "Environment (interacts with) Society",
+        "name" : "Environment (interacts with) Society",
+        "interaction" : "interacts with",
+        "SUID" : 1919,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1917",
+        "source" : "1914",
+        "target" : "1916",
+        "shared_name" : "Environment (interacts with) Technology",
+        "name" : "Environment (interacts with) Technology",
+        "interaction" : "interacts with",
+        "SUID" : 1917,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1915",
+        "source" : "1914",
+        "target" : "1866",
+        "shared_name" : "Environment (interacts with) Urbanization",
+        "name" : "Environment (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 1915,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1939",
+        "source" : "1904",
+        "target" : "1852",
+        "shared_name" : "Gender/Sexuality (interacts with) Education",
+        "name" : "Gender/Sexuality (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 1939,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1938",
+        "source" : "1904",
+        "target" : "1895",
+        "shared_name" : "Gender/Sexuality (interacts with) Race",
+        "name" : "Gender/Sexuality (interacts with) Race",
+        "interaction" : "interacts with",
+        "SUID" : 1938,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1937",
+        "source" : "1904",
+        "target" : "1936",
+        "shared_name" : "Gender/Sexuality (interacts with) Reproductive Rights",
+        "name" : "Gender/Sexuality (interacts with) Reproductive Rights",
+        "interaction" : "interacts with",
+        "SUID" : 1937,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2027",
+        "source" : "1900",
+        "target" : "2026",
+        "shared_name" : "International Affairs (interacts with) Africa",
+        "name" : "International Affairs (interacts with) Africa",
+        "interaction" : "interacts with",
+        "SUID" : 2027,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2025",
+        "source" : "1900",
+        "target" : "2024",
+        "shared_name" : "International Affairs (interacts with) Anti War",
+        "name" : "International Affairs (interacts with) Anti War",
+        "interaction" : "interacts with",
+        "SUID" : 2025,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2023",
+        "source" : "1900",
+        "target" : "2022",
+        "shared_name" : "International Affairs (interacts with) Asia",
+        "name" : "International Affairs (interacts with) Asia",
+        "interaction" : "interacts with",
+        "SUID" : 2023,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2021",
+        "source" : "1900",
+        "target" : "2020",
+        "shared_name" : "International Affairs (interacts with) Australia",
+        "name" : "International Affairs (interacts with) Australia",
+        "interaction" : "interacts with",
+        "SUID" : 2021,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2019",
+        "source" : "1900",
+        "target" : "2018",
+        "shared_name" : "International Affairs (interacts with) Bangladesh",
+        "name" : "International Affairs (interacts with) Bangladesh",
+        "interaction" : "interacts with",
+        "SUID" : 2019,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2017",
+        "source" : "1900",
+        "target" : "2015",
+        "shared_name" : "International Affairs (interacts with) Cambodia",
+        "name" : "International Affairs (interacts with) Cambodia",
+        "interaction" : "interacts with",
+        "SUID" : 2017,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2016",
+        "source" : "1900",
+        "target" : "2015",
+        "shared_name" : "International Affairs (interacts with) Cambodia",
+        "name" : "International Affairs (interacts with) Cambodia",
+        "interaction" : "interacts with",
+        "SUID" : 2016,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2014",
+        "source" : "1900",
+        "target" : "2013",
+        "shared_name" : "International Affairs (interacts with) Chile",
+        "name" : "International Affairs (interacts with) Chile",
+        "interaction" : "interacts with",
+        "SUID" : 2014,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2012",
+        "source" : "1900",
+        "target" : "2007",
+        "shared_name" : "International Affairs (interacts with) China",
+        "name" : "International Affairs (interacts with) China",
+        "interaction" : "interacts with",
+        "SUID" : 2012,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2011",
+        "source" : "1900",
+        "target" : "2007",
+        "shared_name" : "International Affairs (interacts with) China",
+        "name" : "International Affairs (interacts with) China",
+        "interaction" : "interacts with",
+        "SUID" : 2011,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2010",
+        "source" : "1900",
+        "target" : "2007",
+        "shared_name" : "International Affairs (interacts with) China",
+        "name" : "International Affairs (interacts with) China",
+        "interaction" : "interacts with",
+        "SUID" : 2010,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2009",
+        "source" : "1900",
+        "target" : "2007",
+        "shared_name" : "International Affairs (interacts with) China",
+        "name" : "International Affairs (interacts with) China",
+        "interaction" : "interacts with",
+        "SUID" : 2009,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2008",
+        "source" : "1900",
+        "target" : "2007",
+        "shared_name" : "International Affairs (interacts with) China",
+        "name" : "International Affairs (interacts with) China",
+        "interaction" : "interacts with",
+        "SUID" : 2008,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2006",
+        "source" : "1900",
+        "target" : "2003",
+        "shared_name" : "International Affairs (interacts with) Cuba",
+        "name" : "International Affairs (interacts with) Cuba",
+        "interaction" : "interacts with",
+        "SUID" : 2006,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2005",
+        "source" : "1900",
+        "target" : "2003",
+        "shared_name" : "International Affairs (interacts with) Cuba",
+        "name" : "International Affairs (interacts with) Cuba",
+        "interaction" : "interacts with",
+        "SUID" : 2005,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2004",
+        "source" : "1900",
+        "target" : "2003",
+        "shared_name" : "International Affairs (interacts with) Cuba",
+        "name" : "International Affairs (interacts with) Cuba",
+        "interaction" : "interacts with",
+        "SUID" : 2004,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2002",
+        "source" : "1900",
+        "target" : "2001",
+        "shared_name" : "International Affairs (interacts with) Democracy",
+        "name" : "International Affairs (interacts with) Democracy",
+        "interaction" : "interacts with",
+        "SUID" : 2002,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2000",
+        "source" : "1900",
+        "target" : "1999",
+        "shared_name" : "International Affairs (interacts with) Eastern Europe",
+        "name" : "International Affairs (interacts with) Eastern Europe",
+        "interaction" : "interacts with",
+        "SUID" : 2000,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1998",
+        "source" : "1900",
+        "target" : "1914",
+        "shared_name" : "International Affairs (interacts with) Environment",
+        "name" : "International Affairs (interacts with) Environment",
+        "interaction" : "interacts with",
+        "SUID" : 1998,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1997",
+        "source" : "1900",
+        "target" : "1914",
+        "shared_name" : "International Affairs (interacts with) Environment",
+        "name" : "International Affairs (interacts with) Environment",
+        "interaction" : "interacts with",
+        "SUID" : 1997,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1996",
+        "source" : "1900",
+        "target" : "1994",
+        "shared_name" : "International Affairs (interacts with) Europe",
+        "name" : "International Affairs (interacts with) Europe",
+        "interaction" : "interacts with",
+        "SUID" : 1996,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1995",
+        "source" : "1900",
+        "target" : "1994",
+        "shared_name" : "International Affairs (interacts with) Europe",
+        "name" : "International Affairs (interacts with) Europe",
+        "interaction" : "interacts with",
+        "SUID" : 1995,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1993",
+        "source" : "1900",
+        "target" : "1992",
+        "shared_name" : "International Affairs (interacts with) Greece",
+        "name" : "International Affairs (interacts with) Greece",
+        "interaction" : "interacts with",
+        "SUID" : 1993,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1991",
+        "source" : "1900",
+        "target" : "1990",
+        "shared_name" : "International Affairs (interacts with) Haiti",
+        "name" : "International Affairs (interacts with) Haiti",
+        "interaction" : "interacts with",
+        "SUID" : 1991,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1989",
+        "source" : "1900",
+        "target" : "1988",
+        "shared_name" : "International Affairs (interacts with) India",
+        "name" : "International Affairs (interacts with) India",
+        "interaction" : "interacts with",
+        "SUID" : 1989,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1987",
+        "source" : "1900",
+        "target" : "1985",
+        "shared_name" : "International Affairs (interacts with) Israel/Palestine",
+        "name" : "International Affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 1987,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1986",
+        "source" : "1900",
+        "target" : "1985",
+        "shared_name" : "International Affairs (interacts with) Israel/Palestine",
+        "name" : "International Affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 1986,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1984",
+        "source" : "1900",
+        "target" : "1983",
+        "shared_name" : "International Affairs (interacts with) Jordan",
+        "name" : "International Affairs (interacts with) Jordan",
+        "interaction" : "interacts with",
+        "SUID" : 1984,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1982",
+        "source" : "1900",
+        "target" : "1981",
+        "shared_name" : "International Affairs (interacts with) Journalism",
+        "name" : "International Affairs (interacts with) Journalism",
+        "interaction" : "interacts with",
+        "SUID" : 1982,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1980",
+        "source" : "1900",
+        "target" : "1979",
+        "shared_name" : "International Affairs (interacts with) Laos",
+        "name" : "International Affairs (interacts with) Laos",
+        "interaction" : "interacts with",
+        "SUID" : 1980,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1978",
+        "source" : "1900",
+        "target" : "1976",
+        "shared_name" : "International Affairs (interacts with) Latin America",
+        "name" : "International Affairs (interacts with) Latin America",
+        "interaction" : "interacts with",
+        "SUID" : 1978,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1977",
+        "source" : "1900",
+        "target" : "1976",
+        "shared_name" : "International Affairs (interacts with) Latin America",
+        "name" : "International Affairs (interacts with) Latin America",
+        "interaction" : "interacts with",
+        "SUID" : 1977,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1975",
+        "source" : "1900",
+        "target" : "1974",
+        "shared_name" : "International Affairs (interacts with) NATO",
+        "name" : "International Affairs (interacts with) NATO",
+        "interaction" : "interacts with",
+        "SUID" : 1975,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1973",
+        "source" : "1900",
+        "target" : "1972",
+        "shared_name" : "International Affairs (interacts with) New Zealand",
+        "name" : "International Affairs (interacts with) New Zealand",
+        "interaction" : "interacts with",
+        "SUID" : 1973,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1971",
+        "source" : "1900",
+        "target" : "1970",
+        "shared_name" : "International Affairs (interacts with) Northern Ireland",
+        "name" : "International Affairs (interacts with) Northern Ireland",
+        "interaction" : "interacts with",
+        "SUID" : 1971,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1969",
+        "source" : "1900",
+        "target" : "1968",
+        "shared_name" : "International Affairs (interacts with) Peru",
+        "name" : "International Affairs (interacts with) Peru",
+        "interaction" : "interacts with",
+        "SUID" : 1969,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1967",
+        "source" : "1900",
+        "target" : "1966",
+        "shared_name" : "International Affairs (interacts with) Philippines",
+        "name" : "International Affairs (interacts with) Philippines",
+        "interaction" : "interacts with",
+        "SUID" : 1967,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1965",
+        "source" : "1900",
+        "target" : "1964",
+        "shared_name" : "International Affairs (interacts with) Religion",
+        "name" : "International Affairs (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 1965,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1963",
+        "source" : "1900",
+        "target" : "1961",
+        "shared_name" : "International Affairs (interacts with) Russia/USSR",
+        "name" : "International Affairs (interacts with) Russia/USSR",
+        "interaction" : "interacts with",
+        "SUID" : 1963,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1962",
+        "source" : "1900",
+        "target" : "1961",
+        "shared_name" : "International Affairs (interacts with) Russia/USSR",
+        "name" : "International Affairs (interacts with) Russia/USSR",
+        "interaction" : "interacts with",
+        "SUID" : 1962,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1960",
+        "source" : "1900",
+        "target" : "1959",
+        "shared_name" : "International Affairs (interacts with) Socialism",
+        "name" : "International Affairs (interacts with) Socialism",
+        "interaction" : "interacts with",
+        "SUID" : 1960,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1958",
+        "source" : "1900",
+        "target" : "1956",
+        "shared_name" : "International Affairs (interacts with) Southeast Asia",
+        "name" : "International Affairs (interacts with) Southeast Asia",
+        "interaction" : "interacts with",
+        "SUID" : 1958,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1957",
+        "source" : "1900",
+        "target" : "1956",
+        "shared_name" : "International Affairs (interacts with) Southeast Asia",
+        "name" : "International Affairs (interacts with) Southeast Asia",
+        "interaction" : "interacts with",
+        "SUID" : 1957,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1955",
+        "source" : "1900",
+        "target" : "1954",
+        "shared_name" : "International Affairs (interacts with) Third World",
+        "name" : "International Affairs (interacts with) Third World",
+        "interaction" : "interacts with",
+        "SUID" : 1955,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1953",
+        "source" : "1900",
+        "target" : "1950",
+        "shared_name" : "International Affairs (interacts with) UN",
+        "name" : "International Affairs (interacts with) UN",
+        "interaction" : "interacts with",
+        "SUID" : 1953,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1952",
+        "source" : "1900",
+        "target" : "1950",
+        "shared_name" : "International Affairs (interacts with) UN",
+        "name" : "International Affairs (interacts with) UN",
+        "interaction" : "interacts with",
+        "SUID" : 1952,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1951",
+        "source" : "1900",
+        "target" : "1950",
+        "shared_name" : "International Affairs (interacts with) UN",
+        "name" : "International Affairs (interacts with) UN",
+        "interaction" : "interacts with",
+        "SUID" : 1951,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1949",
+        "source" : "1900",
+        "target" : "1891",
+        "shared_name" : "International Affairs (interacts with) US Politics",
+        "name" : "International Affairs (interacts with) US Politics",
+        "interaction" : "interacts with",
+        "SUID" : 1949,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1948",
+        "source" : "1900",
+        "target" : "1891",
+        "shared_name" : "International Affairs (interacts with) US Politics",
+        "name" : "International Affairs (interacts with) US Politics",
+        "interaction" : "interacts with",
+        "SUID" : 1948,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1947",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1947,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1946",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1946,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1945",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1945,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1944",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1944,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1943",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1943,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1942",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1942,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1941",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1941,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1940",
+        "source" : "1900",
+        "target" : "1838",
+        "shared_name" : "International Affairs (interacts with) Vietnam",
+        "name" : "International Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1940,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2069",
+        "source" : "1895",
+        "target" : "2067",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 2069,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2068",
+        "source" : "1895",
+        "target" : "2067",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 2068,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2066",
+        "source" : "1895",
+        "target" : "2065",
+        "shared_name" : "Race (interacts with) Athletics",
+        "name" : "Race (interacts with) Athletics",
+        "interaction" : "interacts with",
+        "SUID" : 2066,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2064",
+        "source" : "1895",
+        "target" : "2063",
+        "shared_name" : "Race (interacts with) Black Culture",
+        "name" : "Race (interacts with) Black Culture",
+        "interaction" : "interacts with",
+        "SUID" : 2064,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2062",
+        "source" : "1895",
+        "target" : "1893",
+        "shared_name" : "Race (interacts with) Capitalism",
+        "name" : "Race (interacts with) Capitalism",
+        "interaction" : "interacts with",
+        "SUID" : 2062,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2061",
+        "source" : "1895",
+        "target" : "1859",
+        "shared_name" : "Race (interacts with) Domestic Affairs",
+        "name" : "Race (interacts with) Domestic Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 2061,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2060",
+        "source" : "1895",
+        "target" : "1890",
+        "shared_name" : "Race (interacts with) Economy",
+        "name" : "Race (interacts with) Economy",
+        "interaction" : "interacts with",
+        "SUID" : 2060,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2059",
+        "source" : "1895",
+        "target" : "1852",
+        "shared_name" : "Race (interacts with) Education",
+        "name" : "Race (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2059,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2058",
+        "source" : "1895",
+        "target" : "1852",
+        "shared_name" : "Race (interacts with) Education",
+        "name" : "Race (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2058,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2057",
+        "source" : "1895",
+        "target" : "1852",
+        "shared_name" : "Race (interacts with) Education",
+        "name" : "Race (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2057,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2056",
+        "source" : "1895",
+        "target" : "1852",
+        "shared_name" : "Race (interacts with) Education",
+        "name" : "Race (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2056,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2055",
+        "source" : "1895",
+        "target" : "1852",
+        "shared_name" : "Race (interacts with) Education",
+        "name" : "Race (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2055,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2054",
+        "source" : "1895",
+        "target" : "1900",
+        "shared_name" : "Race (interacts with) International Affairs",
+        "name" : "Race (interacts with) International Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 2054,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2053",
+        "source" : "1895",
+        "target" : "2048",
+        "shared_name" : "Race (interacts with) Racial Justice Movements",
+        "name" : "Race (interacts with) Racial Justice Movements",
+        "interaction" : "interacts with",
+        "SUID" : 2053,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2052",
+        "source" : "1895",
+        "target" : "2048",
+        "shared_name" : "Race (interacts with) Racial Justice Movements",
+        "name" : "Race (interacts with) Racial Justice Movements",
+        "interaction" : "interacts with",
+        "SUID" : 2052,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2051",
+        "source" : "1895",
+        "target" : "2048",
+        "shared_name" : "Race (interacts with) Racial Justice Movements",
+        "name" : "Race (interacts with) Racial Justice Movements",
+        "interaction" : "interacts with",
+        "SUID" : 2051,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2050",
+        "source" : "1895",
+        "target" : "2048",
+        "shared_name" : "Race (interacts with) Racial Justice Movements",
+        "name" : "Race (interacts with) Racial Justice Movements",
+        "interaction" : "interacts with",
+        "SUID" : 2050,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2049",
+        "source" : "1895",
+        "target" : "2048",
+        "shared_name" : "Race (interacts with) Racial Justice Movements",
+        "name" : "Race (interacts with) Racial Justice Movements",
+        "interaction" : "interacts with",
+        "SUID" : 2049,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2047",
+        "source" : "1895",
+        "target" : "2045",
+        "shared_name" : "Race (interacts with) Racial Justice Movements ",
+        "name" : "Race (interacts with) Racial Justice Movements ",
+        "interaction" : "interacts with",
+        "SUID" : 2047,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2046",
+        "source" : "1895",
+        "target" : "2045",
+        "shared_name" : "Race (interacts with) Racial Justice Movements ",
+        "name" : "Race (interacts with) Racial Justice Movements ",
+        "interaction" : "interacts with",
+        "SUID" : 2046,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2044",
+        "source" : "1895",
+        "target" : "2043",
+        "shared_name" : "Race (interacts with) Racism",
+        "name" : "Race (interacts with) Racism",
+        "interaction" : "interacts with",
+        "SUID" : 2044,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2042",
+        "source" : "1895",
+        "target" : "1964",
+        "shared_name" : "Race (interacts with) Religion",
+        "name" : "Race (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 2042,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2041",
+        "source" : "1895",
+        "target" : "1964",
+        "shared_name" : "Race (interacts with) Religion",
+        "name" : "Race (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 2041,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2040",
+        "source" : "1895",
+        "target" : "1842",
+        "shared_name" : "Race (interacts with) Student Engagement",
+        "name" : "Race (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 2040,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2039",
+        "source" : "1895",
+        "target" : "1866",
+        "shared_name" : "Race (interacts with) Urbanization",
+        "name" : "Race (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 2039,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2038",
+        "source" : "1895",
+        "target" : "1866",
+        "shared_name" : "Race (interacts with) Urbanization",
+        "name" : "Race (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 2038,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2037",
+        "source" : "1895",
+        "target" : "1866",
+        "shared_name" : "Race (interacts with) Urbanization",
+        "name" : "Race (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 2037,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2036",
+        "source" : "1895",
+        "target" : "1866",
+        "shared_name" : "Race (interacts with) Urbanization",
+        "name" : "Race (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 2036,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2035",
+        "source" : "1895",
+        "target" : "1866",
+        "shared_name" : "Race (interacts with) Urbanization",
+        "name" : "Race (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 2035,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2034",
+        "source" : "1895",
+        "target" : "1891",
+        "shared_name" : "Race (interacts with) US Politics",
+        "name" : "Race (interacts with) US Politics",
+        "interaction" : "interacts with",
+        "SUID" : 2034,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2033",
+        "source" : "1895",
+        "target" : "1838",
+        "shared_name" : "Race (interacts with) Vietnam",
+        "name" : "Race (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2033,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2032",
+        "source" : "1895",
+        "target" : "1860",
+        "shared_name" : "Race (interacts with) Violence",
+        "name" : "Race (interacts with) Violence",
+        "interaction" : "interacts with",
+        "SUID" : 2032,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2031",
+        "source" : "1895",
+        "target" : "2030",
+        "shared_name" : "Race (interacts with) Worker's rights",
+        "name" : "Race (interacts with) Worker's rights",
+        "interaction" : "interacts with",
+        "SUID" : 2031,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2120",
+        "source" : "1891",
+        "target" : "1859",
+        "shared_name" : "US Politics (interacts with) Domestic Affairs",
+        "name" : "US Politics (interacts with) Domestic Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 2120,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2119",
+        "source" : "1891",
+        "target" : "1859",
+        "shared_name" : "US Politics (interacts with) Domestic Affairs",
+        "name" : "US Politics (interacts with) Domestic Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 2119,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2118",
+        "source" : "1891",
+        "target" : "1882",
+        "shared_name" : "US Politics (interacts with) Drugs",
+        "name" : "US Politics (interacts with) Drugs",
+        "interaction" : "interacts with",
+        "SUID" : 2118,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2117",
+        "source" : "1891",
+        "target" : "1882",
+        "shared_name" : "US Politics (interacts with) Drugs",
+        "name" : "US Politics (interacts with) Drugs",
+        "interaction" : "interacts with",
+        "SUID" : 2117,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2116",
+        "source" : "1891",
+        "target" : "1852",
+        "shared_name" : "US Politics (interacts with) Education",
+        "name" : "US Politics (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 2116,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2115",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2115,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2114",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2114,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2113",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2113,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2112",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2112,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2111",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2111,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2110",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2110,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2109",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2109,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2108",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2108,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2107",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2107,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2106",
+        "source" : "1891",
+        "target" : "2105",
+        "shared_name" : "US Politics (interacts with) Elections",
+        "name" : "US Politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 2106,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2104",
+        "source" : "1891",
+        "target" : "1981",
+        "shared_name" : "US Politics (interacts with) Journalism",
+        "name" : "US Politics (interacts with) Journalism",
+        "interaction" : "interacts with",
+        "SUID" : 2104,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2103",
+        "source" : "1891",
+        "target" : "2102",
+        "shared_name" : "US Politics (interacts with) Kennedy",
+        "name" : "US Politics (interacts with) Kennedy",
+        "interaction" : "interacts with",
+        "SUID" : 2103,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2101",
+        "source" : "1891",
+        "target" : "1848",
+        "shared_name" : "US Politics (interacts with) Law",
+        "name" : "US Politics (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 2101,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2100",
+        "source" : "1891",
+        "target" : "1922",
+        "shared_name" : "US Politics (interacts with) Pollution",
+        "name" : "US Politics (interacts with) Pollution",
+        "interaction" : "interacts with",
+        "SUID" : 2100,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2099",
+        "source" : "1891",
+        "target" : "1842",
+        "shared_name" : "US Politics (interacts with) Student Engagement",
+        "name" : "US Politics (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 2099,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2098",
+        "source" : "1891",
+        "target" : "1916",
+        "shared_name" : "US Politics (interacts with) Technology",
+        "name" : "US Politics (interacts with) Technology",
+        "interaction" : "interacts with",
+        "SUID" : 2098,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2097",
+        "source" : "1891",
+        "target" : "1868",
+        "shared_name" : "US Politics (interacts with) The Draft",
+        "name" : "US Politics (interacts with) The Draft",
+        "interaction" : "interacts with",
+        "SUID" : 2097,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2096",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2096,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2095",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2095,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2094",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2094,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2093",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2093,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2092",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2092,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2091",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2091,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2090",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2090,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2089",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2089,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2088",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2088,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2087",
+        "source" : "1891",
+        "target" : "1838",
+        "shared_name" : "US Politics (interacts with) Vietnam",
+        "name" : "US Politics (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 2087,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2086",
+        "source" : "1891",
+        "target" : "2030",
+        "shared_name" : "US Politics (interacts with) Worker's rights",
+        "name" : "US Politics (interacts with) Worker's rights",
+        "interaction" : "interacts with",
+        "SUID" : 2086,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2085",
+        "source" : "1891",
+        "target" : "2030",
+        "shared_name" : "US Politics (interacts with) Worker's rights",
+        "name" : "US Politics (interacts with) Worker's rights",
+        "interaction" : "interacts with",
+        "SUID" : 2085,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2084",
+        "source" : "1891",
+        "target" : "2030",
+        "shared_name" : "US Politics (interacts with) Worker's rights",
+        "name" : "US Politics (interacts with) Worker's rights",
+        "interaction" : "interacts with",
+        "SUID" : 2084,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1894",
+        "source" : "1890",
+        "target" : "1893",
+        "shared_name" : "Economy (interacts with) Capitalism",
+        "name" : "Economy (interacts with) Capitalism",
+        "interaction" : "interacts with",
+        "SUID" : 1894,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1892",
+        "source" : "1890",
+        "target" : "1891",
+        "shared_name" : "Economy (interacts with) US Politics",
+        "name" : "Economy (interacts with) US Politics",
+        "interaction" : "interacts with",
+        "SUID" : 1892,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1889",
+        "source" : "1859",
+        "target" : "1837",
+        "shared_name" : "Domestic Affairs (interacts with) Activism",
+        "name" : "Domestic Affairs (interacts with) Activism",
+        "interaction" : "interacts with",
+        "SUID" : 1889,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1888",
+        "source" : "1859",
+        "target" : "1837",
+        "shared_name" : "Domestic Affairs (interacts with) Activism",
+        "name" : "Domestic Affairs (interacts with) Activism",
+        "interaction" : "interacts with",
+        "SUID" : 1888,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1887",
+        "source" : "1859",
+        "target" : "1886",
+        "shared_name" : "Domestic Affairs (interacts with) Conservatism",
+        "name" : "Domestic Affairs (interacts with) Conservatism",
+        "interaction" : "interacts with",
+        "SUID" : 1887,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1885",
+        "source" : "1859",
+        "target" : "1884",
+        "shared_name" : "Domestic Affairs (interacts with) Criminal Justice System",
+        "name" : "Domestic Affairs (interacts with) Criminal Justice System",
+        "interaction" : "interacts with",
+        "SUID" : 1885,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1883",
+        "source" : "1859",
+        "target" : "1882",
+        "shared_name" : "Domestic Affairs (interacts with) Drugs",
+        "name" : "Domestic Affairs (interacts with) Drugs",
+        "interaction" : "interacts with",
+        "SUID" : 1883,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1881",
+        "source" : "1859",
+        "target" : "1852",
+        "shared_name" : "Domestic Affairs (interacts with) Education",
+        "name" : "Domestic Affairs (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 1881,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1880",
+        "source" : "1859",
+        "target" : "1848",
+        "shared_name" : "Domestic Affairs (interacts with) Law",
+        "name" : "Domestic Affairs (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1880,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1879",
+        "source" : "1859",
+        "target" : "1848",
+        "shared_name" : "Domestic Affairs (interacts with) Law",
+        "name" : "Domestic Affairs (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1879,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1878",
+        "source" : "1859",
+        "target" : "1848",
+        "shared_name" : "Domestic Affairs (interacts with) Law",
+        "name" : "Domestic Affairs (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1878,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1877",
+        "source" : "1859",
+        "target" : "1848",
+        "shared_name" : "Domestic Affairs (interacts with) Law",
+        "name" : "Domestic Affairs (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1877,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1876",
+        "source" : "1859",
+        "target" : "1871",
+        "shared_name" : "Domestic Affairs (interacts with) Police",
+        "name" : "Domestic Affairs (interacts with) Police",
+        "interaction" : "interacts with",
+        "SUID" : 1876,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1875",
+        "source" : "1859",
+        "target" : "1871",
+        "shared_name" : "Domestic Affairs (interacts with) Police",
+        "name" : "Domestic Affairs (interacts with) Police",
+        "interaction" : "interacts with",
+        "SUID" : 1875,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1874",
+        "source" : "1859",
+        "target" : "1871",
+        "shared_name" : "Domestic Affairs (interacts with) Police",
+        "name" : "Domestic Affairs (interacts with) Police",
+        "interaction" : "interacts with",
+        "SUID" : 1874,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1873",
+        "source" : "1859",
+        "target" : "1871",
+        "shared_name" : "Domestic Affairs (interacts with) Police",
+        "name" : "Domestic Affairs (interacts with) Police",
+        "interaction" : "interacts with",
+        "SUID" : 1873,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1872",
+        "source" : "1859",
+        "target" : "1871",
+        "shared_name" : "Domestic Affairs (interacts with) Police",
+        "name" : "Domestic Affairs (interacts with) Police",
+        "interaction" : "interacts with",
+        "SUID" : 1872,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1870",
+        "source" : "1859",
+        "target" : "1842",
+        "shared_name" : "Domestic Affairs (interacts with) Student Engagement",
+        "name" : "Domestic Affairs (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1870,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1869",
+        "source" : "1859",
+        "target" : "1868",
+        "shared_name" : "Domestic Affairs (interacts with) The Draft",
+        "name" : "Domestic Affairs (interacts with) The Draft",
+        "interaction" : "interacts with",
+        "SUID" : 1869,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1867",
+        "source" : "1859",
+        "target" : "1866",
+        "shared_name" : "Domestic Affairs (interacts with) Urbanization",
+        "name" : "Domestic Affairs (interacts with) Urbanization",
+        "interaction" : "interacts with",
+        "SUID" : 1867,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1865",
+        "source" : "1859",
+        "target" : "1838",
+        "shared_name" : "Domestic Affairs (interacts with) Vietnam",
+        "name" : "Domestic Affairs (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1865,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1864",
+        "source" : "1859",
+        "target" : "1860",
+        "shared_name" : "Domestic Affairs (interacts with) Violence",
+        "name" : "Domestic Affairs (interacts with) Violence",
+        "interaction" : "interacts with",
+        "SUID" : 1864,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1863",
+        "source" : "1859",
+        "target" : "1860",
+        "shared_name" : "Domestic Affairs (interacts with) Violence",
+        "name" : "Domestic Affairs (interacts with) Violence",
+        "interaction" : "interacts with",
+        "SUID" : 1863,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1862",
+        "source" : "1859",
+        "target" : "1860",
+        "shared_name" : "Domestic Affairs (interacts with) Violence",
+        "name" : "Domestic Affairs (interacts with) Violence",
+        "interaction" : "interacts with",
+        "SUID" : 1862,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1861",
+        "source" : "1859",
+        "target" : "1860",
+        "shared_name" : "Domestic Affairs (interacts with) Violence",
+        "name" : "Domestic Affairs (interacts with) Violence",
+        "interaction" : "interacts with",
+        "SUID" : 1861,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1913",
+        "source" : "1852",
+        "target" : "1837",
+        "shared_name" : "Education (interacts with) Activism",
+        "name" : "Education (interacts with) Activism",
+        "interaction" : "interacts with",
+        "SUID" : 1913,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1912",
+        "source" : "1852",
+        "target" : "1911",
+        "shared_name" : "Education (interacts with) Culture",
+        "name" : "Education (interacts with) Culture",
+        "interaction" : "interacts with",
+        "SUID" : 1912,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1910",
+        "source" : "1852",
+        "target" : "1859",
+        "shared_name" : "Education (interacts with) Domestic Affairs",
+        "name" : "Education (interacts with) Domestic Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 1910,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1909",
+        "source" : "1852",
+        "target" : "1908",
+        "shared_name" : "Education (interacts with) Easton",
+        "name" : "Education (interacts with) Easton",
+        "interaction" : "interacts with",
+        "SUID" : 1909,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1907",
+        "source" : "1852",
+        "target" : "1906",
+        "shared_name" : "Education (interacts with) Faculty",
+        "name" : "Education (interacts with) Faculty",
+        "interaction" : "interacts with",
+        "SUID" : 1907,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1905",
+        "source" : "1852",
+        "target" : "1904",
+        "shared_name" : "Education (interacts with) Gender/Sexuality",
+        "name" : "Education (interacts with) Gender/Sexuality",
+        "interaction" : "interacts with",
+        "SUID" : 1905,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1903",
+        "source" : "1852",
+        "target" : "1900",
+        "shared_name" : "Education (interacts with) International Affairs",
+        "name" : "Education (interacts with) International Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 1903,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1902",
+        "source" : "1852",
+        "target" : "1900",
+        "shared_name" : "Education (interacts with) International Affairs",
+        "name" : "Education (interacts with) International Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 1902,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1901",
+        "source" : "1852",
+        "target" : "1900",
+        "shared_name" : "Education (interacts with) International Affairs",
+        "name" : "Education (interacts with) International Affairs",
+        "interaction" : "interacts with",
+        "SUID" : 1901,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1899",
+        "source" : "1852",
+        "target" : "1848",
+        "shared_name" : "Education (interacts with) Law",
+        "name" : "Education (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1899,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1898",
+        "source" : "1852",
+        "target" : "1895",
+        "shared_name" : "Education (interacts with) Race",
+        "name" : "Education (interacts with) Race",
+        "interaction" : "interacts with",
+        "SUID" : 1898,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1897",
+        "source" : "1852",
+        "target" : "1895",
+        "shared_name" : "Education (interacts with) Race",
+        "name" : "Education (interacts with) Race",
+        "interaction" : "interacts with",
+        "SUID" : 1897,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1896",
+        "source" : "1852",
+        "target" : "1895",
+        "shared_name" : "Education (interacts with) Race",
+        "name" : "Education (interacts with) Race",
+        "interaction" : "interacts with",
+        "SUID" : 1896,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1858",
+        "source" : "1837",
+        "target" : "1857",
+        "shared_name" : "Activism (interacts with) Child development",
+        "name" : "Activism (interacts with) Child development",
+        "interaction" : "interacts with",
+        "SUID" : 1858,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1856",
+        "source" : "1837",
+        "target" : "1855",
+        "shared_name" : "Activism (interacts with) Consumerism",
+        "name" : "Activism (interacts with) Consumerism",
+        "interaction" : "interacts with",
+        "SUID" : 1856,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1854",
+        "source" : "1837",
+        "target" : "1852",
+        "shared_name" : "Activism (interacts with) Education",
+        "name" : "Activism (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 1854,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1853",
+        "source" : "1837",
+        "target" : "1852",
+        "shared_name" : "Activism (interacts with) Education",
+        "name" : "Activism (interacts with) Education",
+        "interaction" : "interacts with",
+        "SUID" : 1853,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1851",
+        "source" : "1837",
+        "target" : "1850",
+        "shared_name" : "Activism (interacts with) Ethics",
+        "name" : "Activism (interacts with) Ethics",
+        "interaction" : "interacts with",
+        "SUID" : 1851,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1849",
+        "source" : "1837",
+        "target" : "1848",
+        "shared_name" : "Activism (interacts with) Law",
+        "name" : "Activism (interacts with) Law",
+        "interaction" : "interacts with",
+        "SUID" : 1849,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1847",
+        "source" : "1837",
+        "target" : "1842",
+        "shared_name" : "Activism (interacts with) Student Engagement",
+        "name" : "Activism (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1847,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1846",
+        "source" : "1837",
+        "target" : "1842",
+        "shared_name" : "Activism (interacts with) Student Engagement",
+        "name" : "Activism (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1846,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1845",
+        "source" : "1837",
+        "target" : "1842",
+        "shared_name" : "Activism (interacts with) Student Engagement",
+        "name" : "Activism (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1845,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1844",
+        "source" : "1837",
+        "target" : "1842",
+        "shared_name" : "Activism (interacts with) Student Engagement",
+        "name" : "Activism (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1844,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1843",
+        "source" : "1837",
+        "target" : "1842",
+        "shared_name" : "Activism (interacts with) Student Engagement",
+        "name" : "Activism (interacts with) Student Engagement",
+        "interaction" : "interacts with",
+        "SUID" : 1843,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1841",
+        "source" : "1837",
+        "target" : "1840",
+        "shared_name" : "Activism (interacts with) Student Rights",
+        "name" : "Activism (interacts with) Student Rights",
+        "interaction" : "interacts with",
+        "SUID" : 1841,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1839",
+        "source" : "1837",
+        "target" : "1838",
+        "shared_name" : "Activism (interacts with) Vietnam",
+        "name" : "Activism (interacts with) Vietnam",
+        "interaction" : "interacts with",
+        "SUID" : 1839,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
