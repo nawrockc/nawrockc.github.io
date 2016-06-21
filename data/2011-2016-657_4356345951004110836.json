@@ -1,0 +1,2629 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "official 2010s index 2.csv",
+    "name" : "2011-2016",
+    "SUID" : 657,
+    "__Annotations" : [ "canvas=foreground|fontFamily=Lantinghei SC|color=-16777216|x=-841.4346406697922|y=-374.465059077011|zoom=0.7373457968812479|z=1|fontSize=18|text=Switch between the networks to see both time periods.|type=org.cytoscape.view.presentation.annotations.TextAnnotation|fontStyle=0|uuid=e492d087-b1f3-4377-bedd-cddc6e940e66", "canvas=foreground|fontFamily=Lantinghei SC|color=-16777216|x=-844.1470722161025|y=-440.9196319616133|zoom=0.7373457968812479|z=3|fontSize=17|text=Under \"Layout,\" click on cola to spread out the nodes. |type=org.cytoscape.view.presentation.annotations.TextAnnotation|fontStyle=0|uuid=2dc1d4ee-4ed1-4151-a673-50b61a2b7728", "canvas=foreground|fontFamily=Lantinghei SC|color=-16777216|x=-842.7908564429473|y=-407.01423763273453|zoom=0.7373457968812479|z=2|fontSize=17|text=Choosing concentric will show the most frequent topics/subtopics mentioned. |type=org.cytoscape.view.presentation.annotations.TextAnnotation|fontStyle=0|uuid=6cdba323-e983-4105-994a-455c556a34f9", "canvas=foreground|fontFamily=Lantinghei SC|color=-16777216|x=-841.4346406697922|y=-339.20344897497716|zoom=0.7373457968812479|z=0|fontSize=17|text=Users can change the visual style or background color (see right panel). |type=org.cytoscape.view.presentation.annotations.TextAnnotation|fontStyle=0|uuid=07d260dc-acfc-41b3-848e-aa51205d33c5", "canvas=foreground|fontFamily=Lantinghei SC|color=-16777216|x=-848.7310815293671|y=-496.55838405530324|zoom=0.6093766916373948|z=4|fontSize=22|text=Instructions on how to use this visualization: |type=org.cytoscape.view.presentation.annotations.TextAnnotation|fontStyle=1|uuid=b4733c69-4c8b-4b79-ad44-04eb0c867fde" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "727",
+        "shared_name" : "Worker’s rights",
+        "name" : "Worker’s rights",
+        "SUID" : 727,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1737.922580144305,
+        "y" : -9.83333828518073
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "726",
+        "shared_name" : "ISIS",
+        "name" : "ISIS",
+        "SUID" : 726,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 426.745107715788,
+        "y" : 660.4796266449931
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "725",
+        "shared_name" : "Stereotypes",
+        "name" : "Stereotypes",
+        "SUID" : 725,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 140.41783738691416,
+        "y" : -272.2311096191406
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "724",
+        "shared_name" : "Bullying",
+        "name" : "Bullying",
+        "SUID" : 724,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -288.5400701415965,
+        "y" : -30.77866399079096
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "723",
+        "shared_name" : "Latin America",
+        "name" : "Latin America",
+        "SUID" : 723,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 451.6246343307048,
+        "y" : 685.7953526796001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "722",
+        "shared_name" : "Reproductive rights",
+        "name" : "Reproductive rights",
+        "SUID" : 722,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -329.7250260584444,
+        "y" : 40.120015853737414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "721",
+        "shared_name" : "Masculinity",
+        "name" : "Masculinity",
+        "SUID" : 721,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -329.4073436524668,
+        "y" : -18.490001382691048
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "720",
+        "shared_name" : "Body positivity",
+        "name" : "Body positivity",
+        "SUID" : 720,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -367.0843710070942,
+        "y" : 20.33307494389271
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "719",
+        "shared_name" : "Hate speech",
+        "name" : "Hate speech",
+        "SUID" : 719,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -360.78467464503024,
+        "y" : 193.87923824079405
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "718",
+        "shared_name" : "Myanmar",
+        "name" : "Myanmar",
+        "SUID" : 718,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 480.61053146126096,
+        "y" : 701.287960447774
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "717",
+        "shared_name" : "Contraception",
+        "name" : "Contraception",
+        "SUID" : 717,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -371.78647366107657,
+        "y" : 65.31217274115807
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "716",
+        "shared_name" : "Gender identity",
+        "name" : "Gender identity",
+        "SUID" : 716,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -326.0312511517832,
+        "y" : 251.4439243311216
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "715",
+        "shared_name" : "Open forum",
+        "name" : "Open forum",
+        "SUID" : 715,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 866.4121900886021,
+        "y" : -222.39773998987414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "714",
+        "shared_name" : "Athletics",
+        "name" : "Athletics",
+        "SUID" : 714,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 134.97922634563338,
+        "y" : 320.87906518679745
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "713",
+        "shared_name" : "North Korea",
+        "name" : "North Korea",
+        "SUID" : 713,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 606.5912968209177,
+        "y" : 655.2502523907289
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "712",
+        "shared_name" : "Climate change",
+        "name" : "Climate change",
+        "SUID" : 712,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -202.31597000063744,
+        "y" : 1248.2665690639874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "711",
+        "shared_name" : "Voting rights",
+        "name" : "Voting rights",
+        "SUID" : 711,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1115.8062146101038,
+        "y" : 122.19056193128199
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "710",
+        "shared_name" : "Student organizations",
+        "name" : "Student organizations",
+        "SUID" : 710,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 921.2435563080089,
+        "y" : -3.387161814035153
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "709",
+        "shared_name" : "Justice system",
+        "name" : "Justice system",
+        "SUID" : 709,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 308.4563479312498,
+        "y" : -272.9177153166017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "708",
+        "shared_name" : "Social Justice",
+        "name" : "Social Justice",
+        "SUID" : 708,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 888.5567539449125,
+        "y" : -204.8692915720029
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "707",
+        "shared_name" : "Greek life",
+        "name" : "Greek life",
+        "SUID" : 707,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 73.77046256424774,
+        "y" : -292.11357909733135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "706",
+        "shared_name" : "Civil liberties",
+        "name" : "Civil liberties",
+        "SUID" : 706,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1119.679505831663,
+        "y" : 153.03797855889889
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "705",
+        "shared_name" : "Eating disorders",
+        "name" : "Eating disorders",
+        "SUID" : 705,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -381.5507694687442,
+        "y" : 220.37850457884372
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "704",
+        "shared_name" : "Art",
+        "name" : "Art",
+        "SUID" : 704,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -391.1729331217648,
+        "y" : 158.59958375426368
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "703",
+        "shared_name" : "Syria",
+        "name" : "Syria",
+        "SUID" : 703,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 577.1637769929043,
+        "y" : 680.3657059844212
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "702",
+        "shared_name" : "Trafficking",
+        "name" : "Trafficking",
+        "SUID" : 702,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -302.2081477121553,
+        "y" : -1.4532892573669187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "701",
+        "shared_name" : "Israel/Palestine",
+        "name" : "Israel/Palestine",
+        "SUID" : 701,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 549.452480350853,
+        "y" : 653.4578940009284
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "700",
+        "shared_name" : "Uganda",
+        "name" : "Uganda",
+        "SUID" : 700,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 628.5653955202383,
+        "y" : 570.8919303399902
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "699",
+        "shared_name" : "Russia",
+        "name" : "Russia",
+        "SUID" : 699,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 640.1322215764249,
+        "y" : 628.6578269656476
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "698",
+        "shared_name" : "Armenian genocide",
+        "name" : "Armenian genocide",
+        "SUID" : 698,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 596.1004639306952,
+        "y" : 608.2659750097108
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "697",
+        "shared_name" : "Economy",
+        "name" : "Economy",
+        "SUID" : 697,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 689.8798164563568,
+        "y" : 293.8226023939925
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "696",
+        "shared_name" : "Native Americans",
+        "name" : "Native Americans",
+        "SUID" : 696,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 217.01621412675772,
+        "y" : -296.3879089355469
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "695",
+        "shared_name" : "Disability",
+        "name" : "Disability",
+        "SUID" : 695,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 545.2267840594768,
+        "y" : 205.96194765844564
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "694",
+        "shared_name" : "Internet",
+        "name" : "Internet",
+        "SUID" : 694,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 531.0218604210204,
+        "y" : 692.2202158517183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "693",
+        "shared_name" : "Women and work",
+        "name" : "Women and work",
+        "SUID" : 693,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -350.99494568006844,
+        "y" : 147.22083305219587
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "692",
+        "shared_name" : "Middle East",
+        "name" : "Middle East",
+        "SUID" : 692,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 130.05533469146758,
+        "y" : 331.18001517031314
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "691",
+        "shared_name" : "Animals",
+        "name" : "Animals",
+        "SUID" : 691,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -247.89717292021396,
+        "y" : 1230.3941290387024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "690",
+        "shared_name" : "Arab Spring",
+        "name" : "Arab Spring",
+        "SUID" : 690,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 656.7078355080648,
+        "y" : 578.0891690222685
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "689",
+        "shared_name" : "Criminal justice system",
+        "name" : "Criminal justice system",
+        "SUID" : 689,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -351.5955956663365,
+        "y" : 246.01392018890567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "688",
+        "shared_name" : "Sustainability",
+        "name" : "Sustainability",
+        "SUID" : 688,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -225.72465096394012,
+        "y" : 1240.7548238030054
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "687",
+        "shared_name" : "Student engagement",
+        "name" : "Student engagement",
+        "SUID" : 687,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 695.185452963131,
+        "y" : 65.72553511931801
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "686",
+        "shared_name" : "Diversity",
+        "name" : "Diversity",
+        "SUID" : 686,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 716.3057941345369,
+        "y" : 76.7576703914317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "685",
+        "shared_name" : "Activism",
+        "name" : "Activism",
+        "SUID" : 685,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 727.3839038923661,
+        "y" : -25.697828975938705
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "684",
+        "shared_name" : "Holocaust",
+        "name" : "Holocaust",
+        "SUID" : 684,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 399.6512917803707,
+        "y" : 303.10029608492107
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "683",
+        "shared_name" : "Obama administration",
+        "name" : "Obama administration",
+        "SUID" : 683,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 538.7613950667401,
+        "y" : -8.803168600346567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "682",
+        "shared_name" : "US politics",
+        "name" : "US politics",
+        "SUID" : 682,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 889.7425433397689,
+        "y" : 163.8083362259057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "681",
+        "shared_name" : "Foreign policy",
+        "name" : "Foreign policy",
+        "SUID" : 681,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 493.1162318164588,
+        "y" : 661.0670722799254
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "680",
+        "shared_name" : "Race",
+        "name" : "Race",
+        "SUID" : 680,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 130.75124506432076,
+        "y" : -52.93373184610357
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "679",
+        "shared_name" : "Sexual assault",
+        "name" : "Sexual assault",
+        "SUID" : 679,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -354.3539291936959,
+        "y" : 94.60938251726316
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "678",
+        "shared_name" : "Art/activism",
+        "name" : "Art/activism",
+        "SUID" : 678,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 149.02802544462747,
+        "y" : 388.4476856346349
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "677",
+        "shared_name" : "Sex",
+        "name" : "Sex",
+        "SUID" : 677,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -400.09245831481235,
+        "y" : 103.50272322475257
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "676",
+        "shared_name" : "Elections",
+        "name" : "Elections",
+        "SUID" : 676,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1299.5429212442887,
+        "y" : 83.54036328644872
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "675",
+        "shared_name" : "Domestic affairs",
+        "name" : "Domestic affairs",
+        "SUID" : 675,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1570.3140175487474,
+        "y" : 26.782442770928583
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "674",
+        "shared_name" : "Racial justice movements",
+        "name" : "Racial justice movements",
+        "SUID" : 674,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -53.10460041520446,
+        "y" : -31.81936349329567
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "673",
+        "shared_name" : "Energy politics",
+        "name" : "Energy politics",
+        "SUID" : 673,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -268.3625833569067,
+        "y" : 1216.74582025068
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "672",
+        "shared_name" : "Environment",
+        "name" : "Environment",
+        "SUID" : 672,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -149.61255208337707,
+        "y" : 1041.8375387039828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "671",
+        "shared_name" : "LGBT",
+        "name" : "LGBT",
+        "SUID" : 671,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -46.40911222851264,
+        "y" : -19.494945655403853
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "670",
+        "shared_name" : "Religion",
+        "name" : "Religion",
+        "SUID" : 670,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 312.74602258962204,
+        "y" : 146.71304386286363
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "669",
+        "shared_name" : "Gender/sexuality",
+        "name" : "Gender/sexuality",
+        "SUID" : 669,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -146.75306495761652,
+        "y" : 147.7943497384489
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "668",
+        "shared_name" : "Immigration",
+        "name" : "Immigration",
+        "SUID" : 668,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 648.0947044397262,
+        "y" : 214.36257305743743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "667",
+        "shared_name" : "International affairs",
+        "name" : "International affairs",
+        "SUID" : 667,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 458.66721758165795,
+        "y" : 463.87277335899
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "867",
+        "source" : "695",
+        "target" : "697",
+        "shared_name" : "Disability (interacts with) Economy",
+        "name" : "Disability (interacts with) Economy",
+        "interaction" : "interacts with",
+        "SUID" : 867,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "866",
+        "source" : "695",
+        "target" : "678",
+        "shared_name" : "Disability (interacts with) Art/activism",
+        "name" : "Disability (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 866,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "865",
+        "source" : "695",
+        "target" : "686",
+        "shared_name" : "Disability (interacts with) Diversity",
+        "name" : "Disability (interacts with) Diversity",
+        "interaction" : "interacts with",
+        "SUID" : 865,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "864",
+        "source" : "695",
+        "target" : "687",
+        "shared_name" : "Disability (interacts with) Student engagement",
+        "name" : "Disability (interacts with) Student engagement",
+        "interaction" : "interacts with",
+        "SUID" : 864,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "863",
+        "source" : "694",
+        "target" : "667",
+        "shared_name" : "Internet (interacts with) International affairs",
+        "name" : "Internet (interacts with) International affairs",
+        "interaction" : "interacts with",
+        "SUID" : 863,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "862",
+        "source" : "685",
+        "target" : "710",
+        "shared_name" : "Activism (interacts with) Student organizations",
+        "name" : "Activism (interacts with) Student organizations",
+        "interaction" : "interacts with",
+        "SUID" : 862,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "861",
+        "source" : "685",
+        "target" : "686",
+        "shared_name" : "Activism (interacts with) Diversity",
+        "name" : "Activism (interacts with) Diversity",
+        "interaction" : "interacts with",
+        "SUID" : 861,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "860",
+        "source" : "685",
+        "target" : "687",
+        "shared_name" : "Activism (interacts with) Student engagement",
+        "name" : "Activism (interacts with) Student engagement",
+        "interaction" : "interacts with",
+        "SUID" : 860,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "859",
+        "source" : "685",
+        "target" : "715",
+        "shared_name" : "Activism (interacts with) Open forum",
+        "name" : "Activism (interacts with) Open forum",
+        "interaction" : "interacts with",
+        "SUID" : 859,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "858",
+        "source" : "685",
+        "target" : "670",
+        "shared_name" : "Activism (interacts with) Religion",
+        "name" : "Activism (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 858,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "857",
+        "source" : "685",
+        "target" : "686",
+        "shared_name" : "Activism (interacts with) Diversity",
+        "name" : "Activism (interacts with) Diversity",
+        "interaction" : "interacts with",
+        "SUID" : 857,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "856",
+        "source" : "685",
+        "target" : "708",
+        "shared_name" : "Activism (interacts with) Social Justice",
+        "name" : "Activism (interacts with) Social Justice",
+        "interaction" : "interacts with",
+        "SUID" : 856,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "855",
+        "source" : "685",
+        "target" : "670",
+        "shared_name" : "Activism (interacts with) Religion",
+        "name" : "Activism (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 855,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "854",
+        "source" : "685",
+        "target" : "668",
+        "shared_name" : "Activism (interacts with) Immigration",
+        "name" : "Activism (interacts with) Immigration",
+        "interaction" : "interacts with",
+        "SUID" : 854,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "853",
+        "source" : "685",
+        "target" : "687",
+        "shared_name" : "Activism (interacts with) Student engagement",
+        "name" : "Activism (interacts with) Student engagement",
+        "interaction" : "interacts with",
+        "SUID" : 853,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "852",
+        "source" : "685",
+        "target" : "687",
+        "shared_name" : "Activism (interacts with) Student engagement",
+        "name" : "Activism (interacts with) Student engagement",
+        "interaction" : "interacts with",
+        "SUID" : 852,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "851",
+        "source" : "685",
+        "target" : "686",
+        "shared_name" : "Activism (interacts with) Diversity",
+        "name" : "Activism (interacts with) Diversity",
+        "interaction" : "interacts with",
+        "SUID" : 851,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "850",
+        "source" : "682",
+        "target" : "697",
+        "shared_name" : "US politics (interacts with) Economy",
+        "name" : "US politics (interacts with) Economy",
+        "interaction" : "interacts with",
+        "SUID" : 850,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "849",
+        "source" : "682",
+        "target" : "676",
+        "shared_name" : "US politics (interacts with) Elections",
+        "name" : "US politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 849,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "848",
+        "source" : "682",
+        "target" : "676",
+        "shared_name" : "US politics (interacts with) Elections",
+        "name" : "US politics (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 848,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "847",
+        "source" : "682",
+        "target" : "711",
+        "shared_name" : "US politics (interacts with) Voting rights",
+        "name" : "US politics (interacts with) Voting rights",
+        "interaction" : "interacts with",
+        "SUID" : 847,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "846",
+        "source" : "682",
+        "target" : "710",
+        "shared_name" : "US politics (interacts with) Student organizations",
+        "name" : "US politics (interacts with) Student organizations",
+        "interaction" : "interacts with",
+        "SUID" : 846,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "845",
+        "source" : "682",
+        "target" : "706",
+        "shared_name" : "US politics (interacts with) Civil liberties",
+        "name" : "US politics (interacts with) Civil liberties",
+        "interaction" : "interacts with",
+        "SUID" : 845,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "844",
+        "source" : "682",
+        "target" : "667",
+        "shared_name" : "US politics (interacts with) International affairs",
+        "name" : "US politics (interacts with) International affairs",
+        "interaction" : "interacts with",
+        "SUID" : 844,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "843",
+        "source" : "682",
+        "target" : "683",
+        "shared_name" : "US politics (interacts with) Obama administration",
+        "name" : "US politics (interacts with) Obama administration",
+        "interaction" : "interacts with",
+        "SUID" : 843,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "842",
+        "source" : "680",
+        "target" : "669",
+        "shared_name" : "Race (interacts with) Gender/sexuality",
+        "name" : "Race (interacts with) Gender/sexuality",
+        "interaction" : "interacts with",
+        "SUID" : 842,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "841",
+        "source" : "680",
+        "target" : "725",
+        "shared_name" : "Race (interacts with) Stereotypes",
+        "name" : "Race (interacts with) Stereotypes",
+        "interaction" : "interacts with",
+        "SUID" : 841,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "840",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 840,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "839",
+        "source" : "680",
+        "target" : "671",
+        "shared_name" : "Race (interacts with) LGBT",
+        "name" : "Race (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 839,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "838",
+        "source" : "680",
+        "target" : "671",
+        "shared_name" : "Race (interacts with) LGBT",
+        "name" : "Race (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 838,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "837",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 837,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "836",
+        "source" : "680",
+        "target" : "674",
+        "shared_name" : "Race (interacts with) Racial justice movements",
+        "name" : "Race (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 836,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "835",
+        "source" : "680",
+        "target" : "674",
+        "shared_name" : "Race (interacts with) Racial justice movements",
+        "name" : "Race (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 835,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "834",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 834,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "833",
+        "source" : "680",
+        "target" : "674",
+        "shared_name" : "Race (interacts with) Racial justice movements",
+        "name" : "Race (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 833,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "832",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 832,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "831",
+        "source" : "680",
+        "target" : "683",
+        "shared_name" : "Race (interacts with) Obama administration",
+        "name" : "Race (interacts with) Obama administration",
+        "interaction" : "interacts with",
+        "SUID" : 831,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "830",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 830,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "829",
+        "source" : "680",
+        "target" : "709",
+        "shared_name" : "Race (interacts with) Justice system",
+        "name" : "Race (interacts with) Justice system",
+        "interaction" : "interacts with",
+        "SUID" : 829,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "828",
+        "source" : "680",
+        "target" : "669",
+        "shared_name" : "Race (interacts with) Gender/sexuality",
+        "name" : "Race (interacts with) Gender/sexuality",
+        "interaction" : "interacts with",
+        "SUID" : 828,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "827",
+        "source" : "680",
+        "target" : "671",
+        "shared_name" : "Race (interacts with) LGBT",
+        "name" : "Race (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 827,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "826",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 826,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "825",
+        "source" : "680",
+        "target" : "707",
+        "shared_name" : "Race (interacts with) Greek life",
+        "name" : "Race (interacts with) Greek life",
+        "interaction" : "interacts with",
+        "SUID" : 825,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "824",
+        "source" : "680",
+        "target" : "678",
+        "shared_name" : "Race (interacts with) Art/activism",
+        "name" : "Race (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 824,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "823",
+        "source" : "680",
+        "target" : "696",
+        "shared_name" : "Race (interacts with) Native Americans",
+        "name" : "Race (interacts with) Native Americans",
+        "interaction" : "interacts with",
+        "SUID" : 823,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "822",
+        "source" : "680",
+        "target" : "674",
+        "shared_name" : "Race (interacts with) Racial justice movements",
+        "name" : "Race (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 822,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "821",
+        "source" : "680",
+        "target" : "670",
+        "shared_name" : "Race (interacts with) Religion",
+        "name" : "Race (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 821,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "820",
+        "source" : "680",
+        "target" : "674",
+        "shared_name" : "Race (interacts with) Racial justice movements",
+        "name" : "Race (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 820,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "819",
+        "source" : "675",
+        "target" : "727",
+        "shared_name" : "Domestic affairs (interacts with) Worker’s rights",
+        "name" : "Domestic affairs (interacts with) Worker’s rights",
+        "interaction" : "interacts with",
+        "SUID" : 819,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "818",
+        "source" : "675",
+        "target" : "676",
+        "shared_name" : "Domestic affairs (interacts with) Elections",
+        "name" : "Domestic affairs (interacts with) Elections",
+        "interaction" : "interacts with",
+        "SUID" : 818,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "817",
+        "source" : "672",
+        "target" : "688",
+        "shared_name" : "Environment (interacts with) Sustainability",
+        "name" : "Environment (interacts with) Sustainability",
+        "interaction" : "interacts with",
+        "SUID" : 817,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "816",
+        "source" : "672",
+        "target" : "691",
+        "shared_name" : "Environment (interacts with) Animals",
+        "name" : "Environment (interacts with) Animals",
+        "interaction" : "interacts with",
+        "SUID" : 816,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "815",
+        "source" : "672",
+        "target" : "688",
+        "shared_name" : "Environment (interacts with) Sustainability",
+        "name" : "Environment (interacts with) Sustainability",
+        "interaction" : "interacts with",
+        "SUID" : 815,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "814",
+        "source" : "672",
+        "target" : "712",
+        "shared_name" : "Environment (interacts with) Climate change",
+        "name" : "Environment (interacts with) Climate change",
+        "interaction" : "interacts with",
+        "SUID" : 814,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "813",
+        "source" : "672",
+        "target" : "691",
+        "shared_name" : "Environment (interacts with) Animals",
+        "name" : "Environment (interacts with) Animals",
+        "interaction" : "interacts with",
+        "SUID" : 813,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "812",
+        "source" : "672",
+        "target" : "688",
+        "shared_name" : "Environment (interacts with) Sustainability",
+        "name" : "Environment (interacts with) Sustainability",
+        "interaction" : "interacts with",
+        "SUID" : 812,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "811",
+        "source" : "672",
+        "target" : "678",
+        "shared_name" : "Environment (interacts with) Art/activism",
+        "name" : "Environment (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 811,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "810",
+        "source" : "672",
+        "target" : "688",
+        "shared_name" : "Environment (interacts with) Sustainability",
+        "name" : "Environment (interacts with) Sustainability",
+        "interaction" : "interacts with",
+        "SUID" : 810,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "809",
+        "source" : "672",
+        "target" : "678",
+        "shared_name" : "Environment (interacts with) Art/activism",
+        "name" : "Environment (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 809,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "808",
+        "source" : "672",
+        "target" : "673",
+        "shared_name" : "Environment (interacts with) Energy politics",
+        "name" : "Environment (interacts with) Energy politics",
+        "interaction" : "interacts with",
+        "SUID" : 808,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "807",
+        "source" : "672",
+        "target" : "673",
+        "shared_name" : "Environment (interacts with) Energy politics",
+        "name" : "Environment (interacts with) Energy politics",
+        "interaction" : "interacts with",
+        "SUID" : 807,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "806",
+        "source" : "670",
+        "target" : "684",
+        "shared_name" : "Religion (interacts with) Holocaust",
+        "name" : "Religion (interacts with) Holocaust",
+        "interaction" : "interacts with",
+        "SUID" : 806,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "805",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 805,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "804",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 804,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "803",
+        "source" : "669",
+        "target" : "724",
+        "shared_name" : "Gender/sexuality (interacts with) Bullying",
+        "name" : "Gender/sexuality (interacts with) Bullying",
+        "interaction" : "interacts with",
+        "SUID" : 803,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "802",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 802,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "801",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 801,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "800",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 800,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "799",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 799,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "798",
+        "source" : "669",
+        "target" : "714",
+        "shared_name" : "Gender/sexuality (interacts with) Athletics",
+        "name" : "Gender/sexuality (interacts with) Athletics",
+        "interaction" : "interacts with",
+        "SUID" : 798,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "797",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 797,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "796",
+        "source" : "669",
+        "target" : "722",
+        "shared_name" : "Gender/sexuality (interacts with) Reproductive rights",
+        "name" : "Gender/sexuality (interacts with) Reproductive rights",
+        "interaction" : "interacts with",
+        "SUID" : 796,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "795",
+        "source" : "669",
+        "target" : "721",
+        "shared_name" : "Gender/sexuality (interacts with) Masculinity",
+        "name" : "Gender/sexuality (interacts with) Masculinity",
+        "interaction" : "interacts with",
+        "SUID" : 795,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "794",
+        "source" : "669",
+        "target" : "720",
+        "shared_name" : "Gender/sexuality (interacts with) Body positivity",
+        "name" : "Gender/sexuality (interacts with) Body positivity",
+        "interaction" : "interacts with",
+        "SUID" : 794,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "793",
+        "source" : "669",
+        "target" : "719",
+        "shared_name" : "Gender/sexuality (interacts with) Hate speech",
+        "name" : "Gender/sexuality (interacts with) Hate speech",
+        "interaction" : "interacts with",
+        "SUID" : 793,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "792",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 792,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "791",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 791,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "790",
+        "source" : "669",
+        "target" : "717",
+        "shared_name" : "Gender/sexuality (interacts with) Contraception",
+        "name" : "Gender/sexuality (interacts with) Contraception",
+        "interaction" : "interacts with",
+        "SUID" : 790,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "789",
+        "source" : "669",
+        "target" : "716",
+        "shared_name" : "Gender/sexuality (interacts with) Gender identity",
+        "name" : "Gender/sexuality (interacts with) Gender identity",
+        "interaction" : "interacts with",
+        "SUID" : 789,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "788",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 788,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "787",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 787,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "786",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 786,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "785",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 785,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "784",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 784,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "783",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 783,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "782",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 782,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "781",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 781,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "780",
+        "source" : "669",
+        "target" : "705",
+        "shared_name" : "Gender/sexuality (interacts with) Eating disorders",
+        "name" : "Gender/sexuality (interacts with) Eating disorders",
+        "interaction" : "interacts with",
+        "SUID" : 780,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "779",
+        "source" : "669",
+        "target" : "704",
+        "shared_name" : "Gender/sexuality (interacts with) Art",
+        "name" : "Gender/sexuality (interacts with) Art",
+        "interaction" : "interacts with",
+        "SUID" : 779,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "778",
+        "source" : "669",
+        "target" : "702",
+        "shared_name" : "Gender/sexuality (interacts with) Trafficking",
+        "name" : "Gender/sexuality (interacts with) Trafficking",
+        "interaction" : "interacts with",
+        "SUID" : 778,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "777",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 777,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "776",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 776,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "775",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 775,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "774",
+        "source" : "669",
+        "target" : "693",
+        "shared_name" : "Gender/sexuality (interacts with) Women and work",
+        "name" : "Gender/sexuality (interacts with) Women and work",
+        "interaction" : "interacts with",
+        "SUID" : 774,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "773",
+        "source" : "669",
+        "target" : "692",
+        "shared_name" : "Gender/sexuality (interacts with) Middle East",
+        "name" : "Gender/sexuality (interacts with) Middle East",
+        "interaction" : "interacts with",
+        "SUID" : 773,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "772",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 772,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "771",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 771,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "770",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 770,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "769",
+        "source" : "669",
+        "target" : "689",
+        "shared_name" : "Gender/sexuality (interacts with) Criminal justice system",
+        "name" : "Gender/sexuality (interacts with) Criminal justice system",
+        "interaction" : "interacts with",
+        "SUID" : 769,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "768",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 768,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "767",
+        "source" : "669",
+        "target" : "679",
+        "shared_name" : "Gender/sexuality (interacts with) Sexual assault",
+        "name" : "Gender/sexuality (interacts with) Sexual assault",
+        "interaction" : "interacts with",
+        "SUID" : 767,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "766",
+        "source" : "669",
+        "target" : "678",
+        "shared_name" : "Gender/sexuality (interacts with) Art/activism",
+        "name" : "Gender/sexuality (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 766,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "765",
+        "source" : "669",
+        "target" : "677",
+        "shared_name" : "Gender/sexuality (interacts with) Sex",
+        "name" : "Gender/sexuality (interacts with) Sex",
+        "interaction" : "interacts with",
+        "SUID" : 765,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "764",
+        "source" : "669",
+        "target" : "674",
+        "shared_name" : "Gender/sexuality (interacts with) Racial justice movements",
+        "name" : "Gender/sexuality (interacts with) Racial justice movements",
+        "interaction" : "interacts with",
+        "SUID" : 764,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "763",
+        "source" : "669",
+        "target" : "671",
+        "shared_name" : "Gender/sexuality (interacts with) LGBT",
+        "name" : "Gender/sexuality (interacts with) LGBT",
+        "interaction" : "interacts with",
+        "SUID" : 763,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "762",
+        "source" : "669",
+        "target" : "670",
+        "shared_name" : "Gender/sexuality (interacts with) Religion",
+        "name" : "Gender/sexuality (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 762,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "761",
+        "source" : "667",
+        "target" : "678",
+        "shared_name" : "International affairs (interacts with) Art/activism",
+        "name" : "International affairs (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 761,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "760",
+        "source" : "667",
+        "target" : "701",
+        "shared_name" : "International affairs (interacts with) Israel/Palestine",
+        "name" : "International affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 760,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "759",
+        "source" : "667",
+        "target" : "726",
+        "shared_name" : "International affairs (interacts with) ISIS",
+        "name" : "International affairs (interacts with) ISIS",
+        "interaction" : "interacts with",
+        "SUID" : 759,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "758",
+        "source" : "667",
+        "target" : "700",
+        "shared_name" : "International affairs (interacts with) Uganda",
+        "name" : "International affairs (interacts with) Uganda",
+        "interaction" : "interacts with",
+        "SUID" : 758,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "757",
+        "source" : "667",
+        "target" : "699",
+        "shared_name" : "International affairs (interacts with) Russia",
+        "name" : "International affairs (interacts with) Russia",
+        "interaction" : "interacts with",
+        "SUID" : 757,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "756",
+        "source" : "667",
+        "target" : "699",
+        "shared_name" : "International affairs (interacts with) Russia",
+        "name" : "International affairs (interacts with) Russia",
+        "interaction" : "interacts with",
+        "SUID" : 756,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "755",
+        "source" : "667",
+        "target" : "699",
+        "shared_name" : "International affairs (interacts with) Russia",
+        "name" : "International affairs (interacts with) Russia",
+        "interaction" : "interacts with",
+        "SUID" : 755,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "754",
+        "source" : "667",
+        "target" : "669",
+        "shared_name" : "International affairs (interacts with) Gender/sexuality",
+        "name" : "International affairs (interacts with) Gender/sexuality",
+        "interaction" : "interacts with",
+        "SUID" : 754,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "753",
+        "source" : "667",
+        "target" : "723",
+        "shared_name" : "International affairs (interacts with) Latin America",
+        "name" : "International affairs (interacts with) Latin America",
+        "interaction" : "interacts with",
+        "SUID" : 753,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "752",
+        "source" : "667",
+        "target" : "703",
+        "shared_name" : "International affairs (interacts with) Syria",
+        "name" : "International affairs (interacts with) Syria",
+        "interaction" : "interacts with",
+        "SUID" : 752,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "751",
+        "source" : "667",
+        "target" : "668",
+        "shared_name" : "International affairs (interacts with) Immigration",
+        "name" : "International affairs (interacts with) Immigration",
+        "interaction" : "interacts with",
+        "SUID" : 751,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "750",
+        "source" : "667",
+        "target" : "718",
+        "shared_name" : "International affairs (interacts with) Myanmar",
+        "name" : "International affairs (interacts with) Myanmar",
+        "interaction" : "interacts with",
+        "SUID" : 750,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "749",
+        "source" : "667",
+        "target" : "701",
+        "shared_name" : "International affairs (interacts with) Israel/Palestine",
+        "name" : "International affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 749,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "748",
+        "source" : "667",
+        "target" : "701",
+        "shared_name" : "International affairs (interacts with) Israel/Palestine",
+        "name" : "International affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 748,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "747",
+        "source" : "667",
+        "target" : "701",
+        "shared_name" : "International affairs (interacts with) Israel/Palestine",
+        "name" : "International affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 747,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "746",
+        "source" : "667",
+        "target" : "714",
+        "shared_name" : "International affairs (interacts with) Athletics",
+        "name" : "International affairs (interacts with) Athletics",
+        "interaction" : "interacts with",
+        "SUID" : 746,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "745",
+        "source" : "667",
+        "target" : "714",
+        "shared_name" : "International affairs (interacts with) Athletics",
+        "name" : "International affairs (interacts with) Athletics",
+        "interaction" : "interacts with",
+        "SUID" : 745,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "744",
+        "source" : "667",
+        "target" : "699",
+        "shared_name" : "International affairs (interacts with) Russia",
+        "name" : "International affairs (interacts with) Russia",
+        "interaction" : "interacts with",
+        "SUID" : 744,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "743",
+        "source" : "667",
+        "target" : "713",
+        "shared_name" : "International affairs (interacts with) North Korea",
+        "name" : "International affairs (interacts with) North Korea",
+        "interaction" : "interacts with",
+        "SUID" : 743,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "742",
+        "source" : "667",
+        "target" : "703",
+        "shared_name" : "International affairs (interacts with) Syria",
+        "name" : "International affairs (interacts with) Syria",
+        "interaction" : "interacts with",
+        "SUID" : 742,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "741",
+        "source" : "667",
+        "target" : "678",
+        "shared_name" : "International affairs (interacts with) Art/activism",
+        "name" : "International affairs (interacts with) Art/activism",
+        "interaction" : "interacts with",
+        "SUID" : 741,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "740",
+        "source" : "667",
+        "target" : "701",
+        "shared_name" : "International affairs (interacts with) Israel/Palestine",
+        "name" : "International affairs (interacts with) Israel/Palestine",
+        "interaction" : "interacts with",
+        "SUID" : 740,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "739",
+        "source" : "667",
+        "target" : "700",
+        "shared_name" : "International affairs (interacts with) Uganda",
+        "name" : "International affairs (interacts with) Uganda",
+        "interaction" : "interacts with",
+        "SUID" : 739,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "738",
+        "source" : "667",
+        "target" : "668",
+        "shared_name" : "International affairs (interacts with) Immigration",
+        "name" : "International affairs (interacts with) Immigration",
+        "interaction" : "interacts with",
+        "SUID" : 738,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "737",
+        "source" : "667",
+        "target" : "699",
+        "shared_name" : "International affairs (interacts with) Russia",
+        "name" : "International affairs (interacts with) Russia",
+        "interaction" : "interacts with",
+        "SUID" : 737,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "736",
+        "source" : "667",
+        "target" : "698",
+        "shared_name" : "International affairs (interacts with) Armenian genocide",
+        "name" : "International affairs (interacts with) Armenian genocide",
+        "interaction" : "interacts with",
+        "SUID" : 736,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "735",
+        "source" : "667",
+        "target" : "670",
+        "shared_name" : "International affairs (interacts with) Religion",
+        "name" : "International affairs (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 735,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "734",
+        "source" : "667",
+        "target" : "697",
+        "shared_name" : "International affairs (interacts with) Economy",
+        "name" : "International affairs (interacts with) Economy",
+        "interaction" : "interacts with",
+        "SUID" : 734,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "733",
+        "source" : "667",
+        "target" : "692",
+        "shared_name" : "International affairs (interacts with) Middle East",
+        "name" : "International affairs (interacts with) Middle East",
+        "interaction" : "interacts with",
+        "SUID" : 733,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "732",
+        "source" : "667",
+        "target" : "684",
+        "shared_name" : "International affairs (interacts with) Holocaust",
+        "name" : "International affairs (interacts with) Holocaust",
+        "interaction" : "interacts with",
+        "SUID" : 732,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "731",
+        "source" : "667",
+        "target" : "690",
+        "shared_name" : "International affairs (interacts with) Arab Spring",
+        "name" : "International affairs (interacts with) Arab Spring",
+        "interaction" : "interacts with",
+        "SUID" : 731,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "730",
+        "source" : "667",
+        "target" : "681",
+        "shared_name" : "International affairs (interacts with) Foreign policy",
+        "name" : "International affairs (interacts with) Foreign policy",
+        "interaction" : "interacts with",
+        "SUID" : 730,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "729",
+        "source" : "667",
+        "target" : "670",
+        "shared_name" : "International affairs (interacts with) Religion",
+        "name" : "International affairs (interacts with) Religion",
+        "interaction" : "interacts with",
+        "SUID" : 729,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "728",
+        "source" : "667",
+        "target" : "668",
+        "shared_name" : "International affairs (interacts with) Immigration",
+        "name" : "International affairs (interacts with) Immigration",
+        "interaction" : "interacts with",
+        "SUID" : 728,
+        "shared_interaction" : "interacts with",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
